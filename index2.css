@@ -1,0 +1,9 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+body {
+background-image: url("background\1920x1080\01.jpg");
+}
